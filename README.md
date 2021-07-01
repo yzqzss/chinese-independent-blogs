@@ -1,1 +1,1 @@
-forked from timqian/chinese-independent-blogs
+Forked from https://github.com/timqian/chinese-independent-blogs
